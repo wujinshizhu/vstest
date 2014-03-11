@@ -10,7 +10,7 @@ namespace vstest
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("WW");
+            System.Console.WriteLine("WWw");
         }
     }
 }
